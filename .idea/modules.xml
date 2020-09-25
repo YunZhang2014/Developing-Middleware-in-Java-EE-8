@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Developing-Middleware-in-Java-EE-8.iml" filepath="$PROJECT_DIR$/.idea/Developing-Middleware-in-Java-EE-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/ch10_websockets/ch5_websockets.iml" filepath="$PROJECT_DIR$/Chapter10/ch10_websockets/ch5_websockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/ejbs/ejbs.iml" filepath="$PROJECT_DIR$/Chapter09/ejbs/ejbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter05/jaxrs21/jaxrs21.iml" filepath="$PROJECT_DIR$/Chapter05/jaxrs21/jaxrs21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter07/jms-ch/jms-ch.iml" filepath="$PROJECT_DIR$/Chapter07/jms-ch/jms-ch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/mavenproject6/mavenproject6.iml" filepath="$PROJECT_DIR$/Chapter06/mavenproject6/mavenproject6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/sending-mails/sending-mails.iml" filepath="$PROJECT_DIR$/Chapter08/sending-mails/sending-mails.iml" />
+    </modules>
+  </component>
+</project>

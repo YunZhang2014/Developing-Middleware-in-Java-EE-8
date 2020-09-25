@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jms-ch:war">
+    <output-path>$PROJECT_DIR$/Chapter07/jms-ch/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jms-ch</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jms-ch-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jms-ch:war exploded" />
+    </root>
+  </artifact>
+</component>

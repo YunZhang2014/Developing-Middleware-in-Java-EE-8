@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Chapter05/jaxrs21" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter07/jms-ch" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter08/sending-mails" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter10/ch10_websockets" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter05/jaxrs21/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/mavenproject6/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter07/jms-ch/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter08/sending-mails/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter09/ejbs/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter10/ch10_websockets/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

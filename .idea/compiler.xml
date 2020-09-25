@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ejbs" />
+        <module name="jaxrs21" />
+        <module name="sending-mails" />
+        <module name="jms-ch" />
+        <module name="ch5_websockets" />
+        <module name="mavenproject6" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch5_websockets" target="1.8" />
+      <module name="ejbs" target="1.5" />
+      <module name="jaxrs21" target="1.8" />
+      <module name="jms-ch" target="1.8" />
+      <module name="mavenproject6" target="1.8" />
+      <module name="sending-mails" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ch5_websockets" options="-endorseddirs $PROJECT_DIR$/Chapter10/ch10_websockets/target/endorsed" />
+      <module name="jaxrs21" options="-endorseddirs $PROJECT_DIR$/Chapter05/jaxrs21/target/endorsed" />
+      <module name="jms-ch" options="-endorseddirs $PROJECT_DIR$/Chapter07/jms-ch/target/endorsed" />
+      <module name="sending-mails" options="-endorseddirs $PROJECT_DIR$/Chapter08/sending-mails/target/endorsed" />
+    </option>
+  </component>
+</project>
